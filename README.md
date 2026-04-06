@@ -1,10 +1,11 @@
-📈 B2B Marketing Mix Model (MMM) & Funnel Optimizer
+B2B Marketing Mix Model (MMM) & Funnel Optimizer
 
-🌐 Overview
+Overview 
 A data-driven optimization tool designed to solve the "Capital Allocation Problem" in B2B Demand Generation. Unlike linear spreadsheets, this optimizer accounts for channel saturation and diminishing returns, providing a realistic projection of MQL, SQL, and Opportunity volume based on varying budget levels.
 
 
-🧠 Core Logic & Architecture
+
+Core Logic & Architecture —
 
 📉 Non-Linear Yield Curves: Built using an exponential saturation function to model how different channels (Search, Social, Programmatic) scale. Each channel has a unique "decay" rate and "ceiling" based on historical performance data.
 
@@ -13,7 +14,8 @@ A data-driven optimization tool designed to solve the "Capital Allocation Proble
 🧪 Full-Funnel Modeling: Integrates unit economics (CAC/CPO) across the entire lifecycle, from top-of-funnel spend to bottom-of-funnel Pipeline Value ($ACV).
 
 
-✨ Key Features
+
+Key Features —
 
 🔄 Dynamic Reallocation: Toggling a channel "Off" triggers an immediate re-optimization, shifting that budget to the next most efficient active channel.
 
@@ -22,7 +24,8 @@ A data-driven optimization tool designed to solve the "Capital Allocation Proble
 💎 Executive Metrics: Real-time calculation of Blended Cost per Opp and Total Pipeline Value to drive boardroom-level decisions.
 
 
-🛠️ Tech Stack
+
+Tech Stack —
 
 🎨 Frontend: Tailwind CSS for high-fidelity, responsive UI.
 
